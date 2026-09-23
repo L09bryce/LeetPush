@@ -7,12 +7,14 @@ Leetcode solutions from easy level to hard level
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/L09bryce/LeetPush/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0275-h-index-ii](https://github.com/L09bryce/LeetPush/tree/main/0275-h-index-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/L09bryce/LeetPush/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/L09bryce/LeetPush/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/L09bryce/LeetPush/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0275-h-index-ii](https://github.com/L09bryce/LeetPush/tree/main/0275-h-index-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/L09bryce/LeetPush/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,4 +23,12 @@ Leetcode solutions from easy level to hard level
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/L09bryce/LeetPush/tree/main/0069-sqrtx/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/L09bryce/LeetPush/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/L09bryce/LeetPush/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
